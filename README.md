@@ -16,6 +16,19 @@ Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de ap
 
 OBJETIVOS ESPECÍFICOS
 
+* Describir la construcción y las características básicas de un inductor.
+* Analizar varios tipos de inductores.
+* Analizar inductores dispuestos en serie y en paralelo.
+* Analizar circuitos inductivos de cd conmutados.
+* Analizar circuitos inductivos de ca.
+* Conocer acerca de la inductancia mutua.
+* Describir cómo se construye y opera un transformador.
+* Describir cómo elevan o reducen el voltaje los transformadores.
+* Analizar el efecto de una carga resistiva a través del devanado secundario.
+* Analizar el concepto de carga reflejada en un transformador.
+* Analizar la igualación de impedancia con transformadores.
+* Describir un transformador no ideal.
+* Describir distintos tipos de transformadores.
 
 
 ## 2. MARCO TEÓRICO
@@ -207,4 +220,24 @@ SECCIÓN 14–7 Características de un transformador no ideal
 
 ![B22](https://user-images.githubusercontent.com/116693260/215298130-8e8dcb4e-2d71-4627-984c-674d5eb28d1a.jpg)
 
+## 4. VIDEO
 
+## 5. CONCLUSIONES 
+
+* Como tal, un inductor es un componente eléctrico pasivo formado por un alambre enrollado alrededor de un núcleo y el cual exhibe la propiedad de inductancia.
+* En síntesis, los inductores normalmente se clasifican de acuerdo con el tipo de material del núcleo.
+* Se afirma que, cuando se conectan inductores en serie, la inductancia total aumenta. Cuando se conectan en paralelo, la inductancia total disminuye.
+* Se ha denotado que, el campo electromagnético de un inductor guarda energía cuando se conecta a una fuente de voltaje de cd.
+* En sí, un inductor deja pasar corriente alterna con una cantidad de oposición llamada reactancia inductiva que depende de la frecuencia de la corriente alterna.
+* Cuando se colocan dos bobinas muy cercanas entre sí, el campo electromagnético variante producido por la corriente que fluye por una bobina provocará un voltaje inducido en la segunda bobina a causa de la inductancia mutua presente entre las dos bobinas.
+* Esencialmente, un transformador básico es un dispositivo eléctrico construido a partir de dos bobinas de alambre acopladas magnéticamente entre sí.
+* Principalmente, un transformador elevador tiene más vueltas en su devanado secundario que en el primario y se utiliza para incrementar voltaje de ca. Un transformador reductor tiene más vueltas en su devanado primario que en el secundario y se utiliza para reducir voltaje de ca.
+* Cuando se conecta una carga resistiva al devanado secundario de un transformador, la relación de la corriente de carga (secundario) y la corriente en el circuito primario se determina por relación de vueltas.
+* Desde el punto de vista del primario, una carga conectada a través del devanado secundario de un transformador parece tener una resistencia que no es necesariamente igual a la resistencia real de la carga.
+* Una aplicación de los transformadores se encuentra en la igualación de una resistencia de carga frente a una resistencia de fuente para lograr una transferencia de potencia máxima.
+* Para estudiar el transformdor práctico, se deben tomar en cuenta aspectos como: resistencia de devanado, pérdidas en el núcleo, dispersión del flujo magnético, capacitancia de devanado, potencia nominal de un transformador, y eficiencia de un transformador.
+* El transformador básico tiene distintas variaciones importantes; mismas que incluyen: transformadores con tomas, transformadores con múltiples devanados, y autotransformadores.
+
+## 6. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
