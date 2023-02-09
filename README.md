@@ -222,6 +222,8 @@ SECCIÓN 14–7 Características de un transformador no ideal
 
 ## 4. VIDEO
 
+https://uespe-my.sharepoint.com/✌️/g/personal/jarivera17_espe_edu_ec/EcecmXWxeKtOg49XI5XNyXUBQGE_-TMLM2fmoL0fXI_NZA?e=c2pGjp
+
 ## 5. CONCLUSIONES 
 
 * Como tal, un inductor es un componente eléctrico pasivo formado por un alambre enrollado alrededor de un núcleo y el cual exhibe la propiedad de inductancia.
